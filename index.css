@@ -1,0 +1,38 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}   
+:root{
+    --color-primary:#ed4d1b;
+    --color-segundary:#ff9a3c;
+    --color-black:#000;
+    --color-white:#fff;
+}
+body{
+    background-color: #ed4d1b;
+    text-align: center;
+    margin: 0 auto;
+    width: 900px;
+    height: 600px;
+    
+}
+.cabeçalho{
+    background-color: burlywood;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.corpo{
+    background-color:#ff9a3c;
+    padding-top:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px; 
+}
+.btn{
+    padding-top:20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-bottom: #000 solid;
+}
